@@ -57,7 +57,6 @@ hr{
 
 .header-name{
     background-color: #243a69;
-    /* box-sizing: border-box; */
     width: 60%;
     height: 100%;
     float: left;
@@ -153,7 +152,7 @@ hr{
 }
 
 
-/* Estilos hobies */
+/* Estilos hobbies */
 
 .hobbies{
     text-align: center;
